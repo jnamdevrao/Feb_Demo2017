@@ -10,7 +10,7 @@ public class App
 	public static void display()
 	
 	{
-        System.out.println( "Display invoked" );
+        System.out.println( "Display asdsainvoked" );
 	}
     public static void main( String[] args )
     {
