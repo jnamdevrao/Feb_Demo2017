@@ -6,6 +6,8 @@ public class Oratest {
 		// TODO Auto-generated method stub
 		
 		int a=90;
+		float bb;
+
 		System.out.println("Ora activatdsfsfvxcvxced");
 
 	}
